@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JAR2020",
+"productVersion": "0.1",
+"dataUrl": "michsak.github.io.data.unityweb",
+"wasmCodeUrl": "michsak.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "michsak.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
